@@ -1,0 +1,6 @@
+# Clasificador de Imágenes
+
+Aplicación móvil desarrollada en **MIT App Inventor** que permite clasificar
+imágenes utilizando un modelo entrenado previamente.
+
+Incluye el archivo `.aia` y capturas de los bloques utilizados.
